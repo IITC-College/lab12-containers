@@ -1,0 +1,7 @@
+{
+  "name": "lab12-containers",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test"
+  }
+}
